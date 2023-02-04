@@ -36,7 +36,7 @@
 <body>
 <div class="login-form">
   <form method="POST">
-    <h2 class="text-center">CREDENTIALS</h2>
+    <h2 class="text-center">MY CREDENTIALS</h2>
       <div class="form-group first_box">
         <input type="text" id="email" class="form-control" placeholder="Email" required>
         <span id="email_error" class="field_error"></span>
